@@ -6,7 +6,7 @@ Contador especialista em operações de crédito, adquirência e modelagem finan
 ## Sobre
 - 📍 São Paulo, BR
 - ✍️ Blog: [santodado.hashnode.dev](https://santodado.hashnode.dev)
-- 💼 LinkedIn: [https://www.linkedin.com/in/wallacecurto/)]
+- 💼 LinkedIn: [linkedin.com/in/wallacecurto](https://www.linkedin.com/in/wallacecurto/)
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/Python-informational?style=flat) ![pandas](https://img.shields.io/badge/pandas-informational?style=flat) ![numpy](https://img.shields.io/badge/numpy-informational?style=flat) ![SQL](https://img.shields.io/badge/SQL-informational?style=flat) ![Power BI](https://img.shields.io/badge/Power%20BI-informational?style=flat) ![IFRS 9](https://img.shields.io/badge/IFRS%209-informational?style=flat) ![Adquirência](https://img.shields.io/badge/Adquir%C3%AAncia-informational?style=flat)
