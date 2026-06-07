@@ -1,5 +1,5 @@
-# Seu Nome
-### Contador | Especialista em Fintechs
+# Wallace Curto
+### Contador | Accounting Specialist - fintech
 
 Contador especialista em operações de crédito, adquirência e modelagem financeira. Apaixonado pela interseção entre contabilidade e dados.
 
