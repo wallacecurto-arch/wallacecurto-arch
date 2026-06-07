@@ -5,7 +5,7 @@ Contador especialista em operações de crédito, adquirência e modelagem finan
 
 ## Sobre
 - 📍 São Paulo, BR
-- ✍️ Blog: [santodado.hashnode.dev](https://santodado.hashnode.dev)
+- ✍️ Blog: [santodado.hashnode.dev](https://wallacecurto-arch.github.io/santo-dado)
 - 💼 LinkedIn: [linkedin.com/in/wallacecurto](https://www.linkedin.com/in/wallacecurto/)
 
 ## Tecnologias
